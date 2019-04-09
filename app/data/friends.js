@@ -1,7 +1,7 @@
 var friends = [
     {
 		name: 'Brian, my dog',
-		photo: 'https://unsplash.com/photos/K4mSJ7kc0As',
+		photo: 'https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9',
 		scores: [
 			'5',
 			'5',
